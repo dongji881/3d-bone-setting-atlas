@@ -1,0 +1,1914 @@
+{
+  "schemaVersion": 1,
+  "importedAt": "2026-08-01T00:00:00Z",
+  "sourceVersion": "4.0",
+  "upstreamSnapshot": {
+    "files": 15,
+    "bytes": 210599722
+  },
+  "copiedAssets": [
+    {
+      "uri": "assets/bodyparts3d/ankle-foot.glb",
+      "bytes": 1003952,
+      "sha256": "e2479f566085003888e40dbc262b6126c352a4999188a69167adc75438f2dc0e"
+    },
+    {
+      "uri": "assets/bodyparts3d/elbow-forearm.glb",
+      "bytes": 36540,
+      "sha256": "2943edfba300489def9e8f925a3f6fe9c23303e34036ae8462f488913b3de8f1"
+    },
+    {
+      "uri": "assets/bodyparts3d/head-neck.glb",
+      "bytes": 3404352,
+      "sha256": "4dc4faf4359d849b63cda83c1c63449567e90ad85482096c7a971136c7b3c5ac"
+    },
+    {
+      "uri": "assets/bodyparts3d/hip-pelvis.glb",
+      "bytes": 362228,
+      "sha256": "bd8082d950af9cc952fe38896f668339ca77e9989e882bf6bbb16dca2500f4ea"
+    },
+    {
+      "uri": "assets/bodyparts3d/knee.glb",
+      "bytes": 123024,
+      "sha256": "3fd6a4084513af36a7e374b684c8434d112f43dc57e2edc7fa924276bfa52d84"
+    },
+    {
+      "uri": "assets/bodyparts3d/shoulder.glb",
+      "bytes": 965320,
+      "sha256": "5c6f561f1ddb7d26352ee3f115a9d4c2666e3376afb3ba3f5556a9166273d085"
+    },
+    {
+      "uri": "assets/bodyparts3d/spine-trunk.glb",
+      "bytes": 4218040,
+      "sha256": "a84d7c65e05a2566ea75b097ab9ce0b35e9ceeb4149f68c61d2fb02643baf5de"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-ankle-foot-muscle.glb",
+      "bytes": 1589824,
+      "sha256": "9285cd6d00193465a03aa4ce76ae8f245ffbbf1ad1fa3e772d780610d0bc9917"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-elbow-forearm-muscle.glb",
+      "bytes": 1245948,
+      "sha256": "dcd74ca5003944450e80f97ffc3bd273c1f5c1a4b03b5d6a919c496151e0ed47"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-hip-pelvis-muscle.glb",
+      "bytes": 895556,
+      "sha256": "5b0a2196af10f42f7e2bbeb3009909a428ee5744be5c1e407fe9e2bdd5cf858a"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-knee-muscle.glb",
+      "bytes": 2287368,
+      "sha256": "760407c708ae0a389e61a364b9d39b5ca4300faa4bed91f363a9ad58984eb829"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-shoulder-muscle.glb",
+      "bytes": 2754964,
+      "sha256": "396047d88ca927208e4b700abfc487f37055f8b0609d64199b2b3a9b33f33f5b"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-spine-trunk-muscle-abdominals.glb",
+      "bytes": 4411700,
+      "sha256": "96c1d6fef5b0068d74f8be2fbc435a8c86bb0f5a99e85e2d814b6cb5ccb1448f"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-spine-trunk-muscle-erector-spinae.glb",
+      "bytes": 2732584,
+      "sha256": "526864ef63a0355128a5c9f10c8cc9d429971e1fb9b765db4a3be1bad6239f14"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-spine-trunk-muscle-pectorals.glb",
+      "bytes": 859548,
+      "sha256": "558104c41f2c366469d4f8ef742d06ce351f3bcf7d5bc75808dbf85026b64031"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-wrist-hand-muscle.glb",
+      "bytes": 1360576,
+      "sha256": "f69be6674e55b80e1a22006dd95abfadd026570a73a77733aae7b5c3b3ba0a24"
+    },
+    {
+      "uri": "assets/bodyparts3d/wrist-hand.glb",
+      "bytes": 508984,
+      "sha256": "b8bdaf8fdcf10f99e8659180b67f2d428db4a11e5b677dbe6beddb0bcc3d4748"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-ankle-foot-connective.glb",
+      "bytes": 377608,
+      "sha256": "ff158b0b0894191ae51ed08951f2b04efe518e255d102ea6ab4a27ad159deef8"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-elbow-forearm-connective.glb",
+      "bytes": 100892,
+      "sha256": "64ec7e6915ed6febecd5c65cfdf9de56b8f126a01910b51a4ccb31027f3fde2b"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-head-neck-connective.glb",
+      "bytes": 254784,
+      "sha256": "3bbc685dbfd90e56ff8178d4734aa454f4f0e451e33ad4e9f9e1771c508dc866"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-knee-connective.glb",
+      "bytes": 269984,
+      "sha256": "050d2645125d39cd8f2cfc004d8e22ea8ac3fca16d883803cffbf487cafd7e78"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-spine-trunk-connective.glb",
+      "bytes": 1565776,
+      "sha256": "67ef5501e27a48416edf5a5128492ff032130797f8543f8668ce46385febe799"
+    },
+    {
+      "uri": "assets/bodyparts3d/supplement-wrist-hand-connective.glb",
+      "bytes": 102224,
+      "sha256": "e67ecfc31d09c434d791c35e24276dadeae2bc536acf19219aff7121c454233c"
+    }
+  ],
+  "supplementalCoverage": {
+    "selected": [
+      {
+        "slug": "intervertebral-symphysis",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA25511",
+          "representationId": "BP9766",
+          "name": "intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3211"
+        ]
+      },
+      {
+        "slug": "intervertebral-symphysis-of-axis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "intervertebral-disk-of-axis",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA25571",
+          "representationId": "BP10172",
+          "name": "intervertebral symphysis of axis"
+        },
+        "elementIds": [
+          "FJ3202"
+        ]
+      },
+      {
+        "slug": "third-cervical-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "third-cervical-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26078",
+          "representationId": "BP10194",
+          "name": "third cervical intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3213"
+        ]
+      },
+      {
+        "slug": "fourth-cervical-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fourth-cervical-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26083",
+          "representationId": "BP9924",
+          "name": "fourth cervical intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3218"
+        ]
+      },
+      {
+        "slug": "fifth-cervical-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fifth-cervical-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26084",
+          "representationId": "BP9492",
+          "name": "fifth cervical intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3219"
+        ]
+      },
+      {
+        "slug": "sixth-cervical-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "sixth-cervical-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26085",
+          "representationId": "BP10188",
+          "name": "sixth cervical intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3220"
+        ]
+      },
+      {
+        "slug": "seventh-cervical-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "seventh-cervical-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26086",
+          "representationId": "BP9683",
+          "name": "seventh cervical intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3221"
+        ]
+      },
+      {
+        "slug": "first-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "first-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26089",
+          "representationId": "BP10176",
+          "name": "first thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3222"
+        ]
+      },
+      {
+        "slug": "second-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "second-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26094",
+          "representationId": "BP9816",
+          "name": "second thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3223"
+        ]
+      },
+      {
+        "slug": "third-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "third-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26095",
+          "representationId": "BP10095",
+          "name": "third thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3224"
+        ]
+      },
+      {
+        "slug": "fourth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fourth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26096",
+          "representationId": "BP10224",
+          "name": "fourth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3203"
+        ]
+      },
+      {
+        "slug": "fifth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fifth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26097",
+          "representationId": "BP9871",
+          "name": "fifth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3204"
+        ]
+      },
+      {
+        "slug": "sixth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "sixth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26098",
+          "representationId": "BP9890",
+          "name": "sixth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3205"
+        ]
+      },
+      {
+        "slug": "seventh-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "seventh-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26099",
+          "representationId": "BP9770",
+          "name": "seventh thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3206"
+        ]
+      },
+      {
+        "slug": "eighth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "eighth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26100",
+          "representationId": "BP9995",
+          "name": "eighth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3207"
+        ]
+      },
+      {
+        "slug": "ninth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "ninth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26101",
+          "representationId": "BP9917",
+          "name": "ninth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3208"
+        ]
+      },
+      {
+        "slug": "tenth-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "tenth-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26102",
+          "representationId": "BP10129",
+          "name": "tenth thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3209"
+        ]
+      },
+      {
+        "slug": "eleventh-thoracic-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "eleventh-thoracic-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26103",
+          "representationId": "BP9338",
+          "name": "eleventh thoracic intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3210"
+        ]
+      },
+      {
+        "slug": "first-lumbar-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "first-lumbar-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26105",
+          "representationId": "BP10039",
+          "name": "first lumbar intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3212"
+        ]
+      },
+      {
+        "slug": "second-lumbar-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "second-lumbar-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26106",
+          "representationId": "BP9908",
+          "name": "second lumbar intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3214"
+        ]
+      },
+      {
+        "slug": "third-lumbar-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "third-lumbar-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26107",
+          "representationId": "BP9568",
+          "name": "third lumbar intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3215"
+        ]
+      },
+      {
+        "slug": "fourth-lumbar-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fourth-lumbar-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26108",
+          "representationId": "BP9689",
+          "name": "fourth lumbar intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3216"
+        ]
+      },
+      {
+        "slug": "fifth-lumbar-intervertebral-symphysis",
+        "type": "joint",
+        "mode": "context",
+        "contextSlug": "fifth-lumbar-intervertebral-disk",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA26109",
+          "representationId": "BP9969",
+          "name": "fifth lumbar intervertebral symphysis"
+        },
+        "elementIds": [
+          "FJ3217"
+        ]
+      },
+      {
+        "slug": "intervertebral-disk-of-axis",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA25058",
+          "representationId": "BP10171",
+          "name": "intervertebral disk of axis"
+        },
+        "elementIds": [
+          "FJ3202"
+        ]
+      },
+      {
+        "slug": "third-cervical-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13896",
+          "representationId": "BP10193",
+          "name": "intervertebral disk of third cervical vertebra"
+        },
+        "elementIds": [
+          "FJ3213"
+        ]
+      },
+      {
+        "slug": "fourth-cervical-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13897",
+          "representationId": "BP9923",
+          "name": "intervertebral disk of fourth cervical vertebra"
+        },
+        "elementIds": [
+          "FJ3218"
+        ]
+      },
+      {
+        "slug": "fifth-cervical-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13898",
+          "representationId": "BP9491",
+          "name": "intervertebral disk of fifth cervical vertebra"
+        },
+        "elementIds": [
+          "FJ3219"
+        ]
+      },
+      {
+        "slug": "sixth-cervical-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13899",
+          "representationId": "BP10187",
+          "name": "intervertebral disk of sixth cervical vertebra"
+        },
+        "elementIds": [
+          "FJ3220"
+        ]
+      },
+      {
+        "slug": "seventh-cervical-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13900",
+          "representationId": "BP9682",
+          "name": "intervertebral disk of seventh cervical vertebra"
+        },
+        "elementIds": [
+          "FJ3221"
+        ]
+      },
+      {
+        "slug": "first-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA10458",
+          "representationId": "BP10175",
+          "name": "intervertebral disk of first thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3222"
+        ]
+      },
+      {
+        "slug": "second-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13495",
+          "representationId": "BP9815",
+          "name": "intervertebral disk of second thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3223"
+        ]
+      },
+      {
+        "slug": "third-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13500",
+          "representationId": "BP10094",
+          "name": "intervertebral disk of third thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3224"
+        ]
+      },
+      {
+        "slug": "fourth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13501",
+          "representationId": "BP10223",
+          "name": "intervertebral disk of fourth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3203"
+        ]
+      },
+      {
+        "slug": "fifth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13502",
+          "representationId": "BP9870",
+          "name": "intervertebral disk of fifth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3204"
+        ]
+      },
+      {
+        "slug": "sixth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13503",
+          "representationId": "BP9889",
+          "name": "intervertebral disk of sixth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3205"
+        ]
+      },
+      {
+        "slug": "seventh-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13504",
+          "representationId": "BP9769",
+          "name": "intervertebral disk of seventh thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3206"
+        ]
+      },
+      {
+        "slug": "eighth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13505",
+          "representationId": "BP9994",
+          "name": "intervertebral disk of eighth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3207"
+        ]
+      },
+      {
+        "slug": "ninth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13506",
+          "representationId": "BP9916",
+          "name": "intervertebral disk of ninth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3208"
+        ]
+      },
+      {
+        "slug": "tenth-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13507",
+          "representationId": "BP10128",
+          "name": "intervertebral disk of tenth thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3209"
+        ]
+      },
+      {
+        "slug": "eleventh-thoracic-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA13508",
+          "representationId": "BP9337",
+          "name": "intervertebral disk of eleventh thoracic vertebra"
+        },
+        "elementIds": [
+          "FJ3210"
+        ]
+      },
+      {
+        "slug": "first-lumbar-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA16033",
+          "representationId": "BP10038",
+          "name": "intervertebral disk of first lumbar vertebra"
+        },
+        "elementIds": [
+          "FJ3212"
+        ]
+      },
+      {
+        "slug": "second-lumbar-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA16034",
+          "representationId": "BP9907",
+          "name": "intervertebral disk of second lumbar vertebra"
+        },
+        "elementIds": [
+          "FJ3214"
+        ]
+      },
+      {
+        "slug": "third-lumbar-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA16035",
+          "representationId": "BP9567",
+          "name": "intervertebral disk of third lumbar vertebra"
+        },
+        "elementIds": [
+          "FJ3215"
+        ]
+      },
+      {
+        "slug": "fourth-lumbar-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA16036",
+          "representationId": "BP9688",
+          "name": "intervertebral disk of fourth lumbar vertebra"
+        },
+        "elementIds": [
+          "FJ3216"
+        ]
+      },
+      {
+        "slug": "fifth-lumbar-intervertebral-disk",
+        "type": "joint",
+        "mode": "direct",
+        "regionId": "spine-trunk",
+        "laterality": "midline",
+        "source": {
+          "tree": "partof",
+          "fmaId": "FMA16037",
+          "representationId": "BP9968",
+          "name": "intervertebral disk of fifth lumbar vertebra"
+        },
+        "elementIds": [
+          "FJ3217"
+        ]
+      },
+      {
+        "slug": "tarsal-ligament",
+        "type": "ligament",
+        "mode": "context",
+        "contextSlug": "long-plantar-ligament",
+        "regionId": "ankle-foot",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA44197",
+          "representationId": "BP9276",
+          "name": "tarsal ligament"
+        },
+        "elementIds": [
+          "FJ1424",
+          "FJ1424M"
+        ]
+      },
+      {
+        "slug": "plantar-tarsal-ligament",
+        "type": "ligament",
+        "mode": "context",
+        "contextSlug": "long-plantar-ligament",
+        "regionId": "ankle-foot",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA44245",
+          "representationId": "BP9275",
+          "name": "plantar tarsal ligament"
+        },
+        "elementIds": [
+          "FJ1424",
+          "FJ1424M"
+        ]
+      },
+      {
+        "slug": "long-plantar-ligament",
+        "type": "ligament",
+        "mode": "direct",
+        "regionId": "ankle-foot",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA44248",
+          "representationId": "BP9274",
+          "name": "long plantar ligament"
+        },
+        "elementIds": [
+          "FJ1424",
+          "FJ1424M"
+        ]
+      },
+      {
+        "slug": "calcaneal-tendon",
+        "type": "tendon",
+        "mode": "direct",
+        "regionId": "ankle-foot",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA51061",
+          "representationId": "BP8740",
+          "name": "calcaneal tendon"
+        },
+        "elementIds": [
+          "FJ1405",
+          "FJ1405M"
+        ]
+      },
+      {
+        "slug": "stylohyoid-ligament",
+        "type": "ligament",
+        "mode": "direct",
+        "regionId": "head-neck",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA72308",
+          "representationId": "BP8290",
+          "name": "stylohyoid ligament"
+        },
+        "elementIds": [
+          "FJ2763",
+          "FJ2764"
+        ]
+      },
+      {
+        "slug": "intermediate-tendon",
+        "type": "tendon",
+        "mode": "direct",
+        "regionId": "head-neck",
+        "laterality": "variable",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA65410",
+          "representationId": "BP6513",
+          "name": "intermediate tendon"
+        },
+        "elementIds": [
+          "FJ1581"
+        ]
+      },
+      {
+        "slug": "flexor-retinaculum-of-wrist",
+        "type": "ligament",
+        "mode": "direct",
+        "regionId": "wrist-hand",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA39988",
+          "representationId": "BP8059",
+          "name": "flexor retinaculum of wrist"
+        },
+        "elementIds": [
+          "FJ1471",
+          "FJ1471M"
+        ]
+      },
+      {
+        "slug": "interosseous-membrane-of-forearm",
+        "type": "ligament",
+        "mode": "direct",
+        "regionId": "elbow-forearm",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA23706",
+          "representationId": "BP8264",
+          "name": "interosseous membrane of forearm"
+        },
+        "elementIds": [
+          "FJ1476",
+          "FJ1476M"
+        ]
+      },
+      {
+        "slug": "interosseous-membrane-of-leg",
+        "type": "ligament",
+        "mode": "direct",
+        "regionId": "knee",
+        "laterality": "paired",
+        "source": {
+          "tree": "isa",
+          "fmaId": "FMA35187",
+          "representationId": "BP8482",
+          "name": "interosseous membrane of leg"
+        },
+        "elementIds": [
+          "FJ1392",
+          "FJ1392M"
+        ]
+      }
+    ],
+    "excluded": [
+      {
+        "pattern": "ontology grouping rows",
+        "reason": "not user-facing structures",
+        "examples": [
+          "tendon",
+          "ligament organ",
+          "skeletal ligament",
+          "nonskeletal ligament",
+          "ligament organ component"
+        ]
+      },
+      {
+        "pattern": "ocular rows",
+        "reason": "outside the locomotor pack scope",
+        "examples": [
+          "check ligament of lateral rectus",
+          "check ligament of medial rectus",
+          "suspensory ligament of lens",
+          "tendon of levator palpebrae superioris"
+        ]
+      },
+      {
+        "pattern": "laryngeal and vocal rows",
+        "reason": "outside the locomotor pack scope",
+        "examples": [
+          "ligament of larynx",
+          "thyrohyoid ligament",
+          "vocal ligament",
+          "cricothyroid ligament"
+        ]
+      },
+      {
+        "pattern": "limb aggregate rows",
+        "reason": "duplicate grouping concepts for selected source rows",
+        "examples": [
+          "ligament of limb",
+          "ligament of lower limb"
+        ]
+      }
+    ]
+  },
+  "sourceAudit": {
+    "candidateRows": 140,
+    "selectedRows": 54,
+    "excludedRows": [
+      {
+        "tree": "isa",
+        "fmaId": "FMA10446",
+        "representationId": "BP7812",
+        "name": "intervertebral disk",
+        "elementCount": 23,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA10455",
+        "representationId": "BP7811",
+        "name": "intervertebral disk of thoracic vertebra",
+        "elementCount": 11,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA10458",
+        "representationId": "BP9158",
+        "name": "intervertebral disk of first thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13495",
+        "representationId": "BP8514",
+        "name": "intervertebral disk of second thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13500",
+        "representationId": "BP9007",
+        "name": "intervertebral disk of third thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13501",
+        "representationId": "BP9269",
+        "name": "intervertebral disk of fourth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13502",
+        "representationId": "BP8610",
+        "name": "intervertebral disk of fifth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13503",
+        "representationId": "BP8652",
+        "name": "intervertebral disk of sixth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13504",
+        "representationId": "BP8433",
+        "name": "intervertebral disk of seventh thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13505",
+        "representationId": "BP8829",
+        "name": "intervertebral disk of eighth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13506",
+        "representationId": "BP8704",
+        "name": "intervertebral disk of ninth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13507",
+        "representationId": "BP9069",
+        "name": "intervertebral disk of tenth thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13508",
+        "representationId": "BP7810",
+        "name": "intervertebral disk of eleventh thoracic vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13894",
+        "representationId": "BP8047",
+        "name": "intervertebral disk of lumbar vertebra",
+        "elementCount": 5,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13895",
+        "representationId": "BP7935",
+        "name": "intervertebral disk of cervical vertebra",
+        "elementCount": 6,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13896",
+        "representationId": "BP9201",
+        "name": "intervertebral disk of third cervical vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13897",
+        "representationId": "BP8718",
+        "name": "intervertebral disk of fourth cervical vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13898",
+        "representationId": "BP7934",
+        "name": "intervertebral disk of fifth cervical vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13899",
+        "representationId": "BP9190",
+        "name": "intervertebral disk of sixth cervical vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA13900",
+        "representationId": "BP8243",
+        "name": "intervertebral disk of seventh cervical vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA16033",
+        "representationId": "BP8891",
+        "name": "intervertebral disk of first lumbar vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA16034",
+        "representationId": "BP8683",
+        "name": "intervertebral disk of second lumbar vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA16035",
+        "representationId": "BP8046",
+        "name": "intervertebral disk of third lumbar vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA16036",
+        "representationId": "BP8261",
+        "name": "intervertebral disk of fourth lumbar vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA16037",
+        "representationId": "BP8781",
+        "name": "intervertebral disk of fifth lumbar vertebra",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA21496",
+        "representationId": "BP8168",
+        "name": "ligament organ",
+        "elementCount": 13,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA23707",
+        "representationId": "BP4651",
+        "name": "interosseous membrane of right forearm",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA23708",
+        "representationId": "BP8263",
+        "name": "interosseous membrane of left forearm",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA25058",
+        "representationId": "BP9151",
+        "name": "intervertebral disk of axis",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA25624",
+        "representationId": "BP8291",
+        "name": "skeletal ligament",
+        "elementCount": 8,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA25625",
+        "representationId": "BP8167",
+        "name": "nonskeletal ligament",
+        "elementCount": 5,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA258847",
+        "representationId": "BP5098",
+        "name": "right calcaneal tendon",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA258850",
+        "representationId": "BP6514",
+        "name": "right intermediate tendon",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA264844",
+        "representationId": "BP8739",
+        "name": "left calcaneal tendon",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA265178",
+        "representationId": "BP9277",
+        "name": "ligament of lower limb",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA265180",
+        "representationId": "BP9278",
+        "name": "ligament of limb",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA35192",
+        "representationId": "BP4649",
+        "name": "interosseous membrane of right leg",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA35193",
+        "representationId": "BP8481",
+        "name": "interosseous membrane of left leg",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA40120",
+        "representationId": "BP6527",
+        "name": "flexor retinaculum of right wrist",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA40121",
+        "representationId": "BP8058",
+        "name": "flexor retinaculum of left wrist",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA44249",
+        "representationId": "BP5093",
+        "name": "right long plantar ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA44250",
+        "representationId": "BP9273",
+        "name": "left long plantar ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49143",
+        "representationId": "BP6506",
+        "name": "check ligament of lateral rectus",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49144",
+        "representationId": "BP6507",
+        "name": "check ligament of right lateral rectus",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49145",
+        "representationId": "BP6508",
+        "name": "check ligament of left lateral rectus",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49146",
+        "representationId": "BP6498",
+        "name": "check ligament of medial rectus",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49147",
+        "representationId": "BP6499",
+        "name": "check ligament of right medial rectus",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA49148",
+        "representationId": "BP6500",
+        "name": "check ligament of left medial rectus",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA54158",
+        "representationId": "BP6510",
+        "name": "tendon of levator palpebrae superioris",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA54159",
+        "representationId": "BP6511",
+        "name": "tendon of right levator palpebrae superioris",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA54839",
+        "representationId": "BP8265",
+        "name": "interosseous membrane",
+        "elementCount": 4,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA54921",
+        "representationId": "BP9141",
+        "name": "extrinsic ligament of larynx",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55131",
+        "representationId": "BP8294",
+        "name": "ligament of larynx",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55132",
+        "representationId": "BP8305",
+        "name": "thyrohyoid membrane",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55133",
+        "representationId": "BP8304",
+        "name": "right thyrohyoid membrane",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55134",
+        "representationId": "BP8736",
+        "name": "left thyrohyoid membrane",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55135",
+        "representationId": "BP8166",
+        "name": "thyrohyoid ligament",
+        "elementCount": 3,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55138",
+        "representationId": "BP8311",
+        "name": "median thyrohyoid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55139",
+        "representationId": "BP8165",
+        "name": "lateral thyrohyoid ligament",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55140",
+        "representationId": "BP8164",
+        "name": "right lateral thyrohyoid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55141",
+        "representationId": "BP8424",
+        "name": "left lateral thyrohyoid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55227",
+        "representationId": "BP9140",
+        "name": "hyo-epiglottic ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55230",
+        "representationId": "BP8292",
+        "name": "thyro-epiglottic ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55233",
+        "representationId": "BP8582",
+        "name": "cricothyroid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55237",
+        "representationId": "BP8581",
+        "name": "median cricothyroid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55244",
+        "representationId": "BP8189",
+        "name": "vocal ligament",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55245",
+        "representationId": "BP9026",
+        "name": "right vocal ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA55246",
+        "representationId": "BP8188",
+        "name": "left vocal ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA58838",
+        "representationId": "BP6486",
+        "name": "suspensory ligament of lens",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA58839",
+        "representationId": "BP6488",
+        "name": "suspensory ligament of right lens",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA58840",
+        "representationId": "BP6487",
+        "name": "suspensory ligament of left lens",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA64796",
+        "representationId": "BP9013",
+        "name": "region of serous membrane",
+        "elementCount": 3,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA67396",
+        "representationId": "BP7813",
+        "name": "articular disk of symphysis",
+        "elementCount": 23,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA7145",
+        "representationId": "BP8266",
+        "name": "membrane organ",
+        "elementCount": 10,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA72058",
+        "representationId": "BP8293",
+        "name": "intrinsic ligament of larynx",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA72309",
+        "representationId": "BP8422",
+        "name": "right stylohyoid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA72311",
+        "representationId": "BP8289",
+        "name": "left stylohyoid ligament",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA75445",
+        "representationId": "BP8427",
+        "name": "membrane organ component",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA7646",
+        "representationId": "BP8060",
+        "name": "retinaculum",
+        "elementCount": 2,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA86375",
+        "representationId": "BP8190",
+        "name": "ligament organ component",
+        "elementCount": 7,
+        "selected": false
+      },
+      {
+        "tree": "isa",
+        "fmaId": "FMA9721",
+        "representationId": "BP9017",
+        "name": "tendon",
+        "elementCount": 6,
+        "selected": false
+      },
+      {
+        "tree": "partof",
+        "fmaId": "FMA10446",
+        "representationId": "BP9765",
+        "name": "intervertebral disk",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "partof",
+        "fmaId": "FMA40120",
+        "representationId": "BP6722",
+        "name": "flexor retinaculum of right wrist",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "partof",
+        "fmaId": "FMA40121",
+        "representationId": "BP9579",
+        "name": "flexor retinaculum of left wrist",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "partof",
+        "fmaId": "FMA58839",
+        "representationId": "BP7102",
+        "name": "suspensory ligament of right lens",
+        "elementCount": 1,
+        "selected": false
+      },
+      {
+        "tree": "partof",
+        "fmaId": "FMA58840",
+        "representationId": "BP7118",
+        "name": "suspensory ligament of left lens",
+        "elementCount": 1,
+        "selected": false
+      }
+    ]
+  },
+  "unavailableLegacy": [
+    {
+      "nodeId": "head-neck:atlanto-occipital-joint",
+      "regionId": "head-neck",
+      "type": "joint"
+    },
+    {
+      "nodeId": "head-neck:nuchal-ligament",
+      "regionId": "head-neck",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "head-neck:sternocleidomastoid-tendon",
+      "regionId": "head-neck",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "shoulder:glenohumeral-joint",
+      "regionId": "shoulder",
+      "type": "joint"
+    },
+    {
+      "nodeId": "shoulder:coracohumeral-ligament",
+      "regionId": "shoulder",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "shoulder:rotator-cuff-tendons",
+      "regionId": "shoulder",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "elbow-forearm:humeroulnar-joint",
+      "regionId": "elbow-forearm",
+      "type": "joint"
+    },
+    {
+      "nodeId": "elbow-forearm:ulnar-collateral-ligament",
+      "regionId": "elbow-forearm",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "elbow-forearm:distal-biceps-tendon",
+      "regionId": "elbow-forearm",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "wrist-hand:radiocarpal-joint",
+      "regionId": "wrist-hand",
+      "type": "joint"
+    },
+    {
+      "nodeId": "wrist-hand:scapholunate-ligament",
+      "regionId": "wrist-hand",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "wrist-hand:flexor-tendons",
+      "regionId": "wrist-hand",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "spine-trunk:lumbar-facet-joint",
+      "regionId": "spine-trunk",
+      "type": "joint"
+    },
+    {
+      "nodeId": "spine-trunk:anterior-longitudinal-ligament",
+      "regionId": "spine-trunk",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "spine-trunk:multifidus",
+      "regionId": "spine-trunk",
+      "type": "muscle"
+    },
+    {
+      "nodeId": "spine-trunk:erector-spinae-tendon",
+      "regionId": "spine-trunk",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "hip-pelvis:hip-joint",
+      "regionId": "hip-pelvis",
+      "type": "joint"
+    },
+    {
+      "nodeId": "hip-pelvis:iliofemoral-ligament",
+      "regionId": "hip-pelvis",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "hip-pelvis:gluteal-tendon",
+      "regionId": "hip-pelvis",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "knee:tibiofemoral-joint",
+      "regionId": "knee",
+      "type": "joint"
+    },
+    {
+      "nodeId": "knee:anterior-cruciate-ligament",
+      "regionId": "knee",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "knee:patellar-tendon",
+      "regionId": "knee",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "ankle-foot:lisfranc-joint-complex",
+      "regionId": "ankle-foot",
+      "type": "joint"
+    },
+    {
+      "nodeId": "ankle-foot:lisfranc-ligament",
+      "regionId": "ankle-foot",
+      "type": "ligament"
+    },
+    {
+      "nodeId": "ankle-foot:tibialis-posterior-tendon",
+      "regionId": "ankle-foot",
+      "type": "tendon"
+    },
+    {
+      "nodeId": "spine-trunk:rectus-abdominis",
+      "regionId": "spine-trunk",
+      "type": "muscle"
+    },
+    {
+      "nodeId": "spine-trunk:internal-oblique",
+      "regionId": "spine-trunk",
+      "type": "muscle"
+    },
+    {
+      "nodeId": "spine-trunk:transversus-abdominis",
+      "regionId": "spine-trunk",
+      "type": "muscle"
+    },
+    {
+      "nodeId": "spine-trunk:latissimus-dorsi",
+      "regionId": "spine-trunk",
+      "type": "muscle"
+    }
+  ],
+  "coverage": {
+    "direct": 149,
+    "compound": 51,
+    "context": 26,
+    "unavailable": 29
+  }
+}
